@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u-wx permissions
+chmod a+x permissions
