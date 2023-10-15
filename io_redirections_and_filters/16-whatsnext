@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -rA3 root * 
